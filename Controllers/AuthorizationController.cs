@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
+using TokenServiceApi.Data;
 using TokenServiceApi.Models;
 using TokenServiceApi.Models.DTO;
 using TokenServiceApi.Repositories.Abstract;

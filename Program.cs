@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
+using TokenServiceApi.Data;
 using TokenServiceApi.Models;
 using TokenServiceApi.Repositories;
 using TokenServiceApi.Repositories.Abstract;

@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Security.Claims;
+using TokenServiceApi.Data;
 using TokenServiceApi.Models;
 using TokenServiceApi.Models.DTO;
 using TokenServiceApi.Repositories.Abstract;
